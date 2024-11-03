@@ -11,7 +11,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(dynamic-wang-k98RB1I7LTQ-unsplash.jpg);
+    background-image: url(images/dynamic-wang-k98RB1I7LTQ-unsplash.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -89,5 +89,6 @@ body{
     color: bisque;
  }
  .choco{
-    text-align: left;
+    text-align: right;
+    center
  }
